@@ -1,0 +1,16 @@
+h1{
+    color: blueviolet;
+    text-decoration: double; 
+    font-style: italic;
+    text-align: center;
+}
+img{
+    border-radius: 200px;
+}
+
+#header{
+    color: rgb(0, 211, 46);
+}
+.wrapper{
+    color: rgb(115, 107, 189);
+}
